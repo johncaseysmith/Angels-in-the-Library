@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="newStoneSlide_data" version="1.3.0" audacityversion="1.3.14-beta" sel0="0.0000000000" sel1="7.4724716553" vpos="0" h="0.0000000000" zoom="144.7975852273" rate="11025.0">
+	<tags>
+		<tag name="ALBUM" value="http://www.Sounddogs.com"/>
+		<tag name="TITLE" value="Sound Effects - Door,Stone,Drag,Slam,Dist"/>
+		<tag name="TRACKNUMBER" value="0"/>
+		<tag name="COMMENTS" value="Royalty Free Sound Effects - Sounddogs.com"/>
+		<tag name="Copyright message" value="(c) 2010 Sounddogs.com, All Rights Reserved"/>
+		<tag name="ARTIST" value="Download Sound Effects - SoundDogs - Casablanca _SDC"/>
+		<tag name="YEAR" value="2003"/>
+		<tag name="GENRE" value="SFX - Doors; Stone Rock"/>
+	</tags>
+	<wavetrack name="newStoneSlide" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="11025" gain="3.981072" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="41192">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000bd6.au" len="41192" min="-0.703304" max="0.677121" rms="0.132814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.73623583">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="41192">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000306.au" len="41192" min="-0.703304" max="0.677121" rms="0.132818"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

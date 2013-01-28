@@ -1,0 +1,3 @@
+Assets/LibraryModels/Models/Materials/boxtexture.jpg
+Assets/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_front.tif
+Assets/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Diffuse.png
